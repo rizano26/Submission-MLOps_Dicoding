@@ -1,7 +1,4 @@
 # Submission 2: Klasifikasi Email Spam dan Non-Spam
-Nama: Muhammad Rizano Lukman
-
-Username dicoding: wnefst26
 
 | | Deskripsi |
 | ----------- | ----------- |
